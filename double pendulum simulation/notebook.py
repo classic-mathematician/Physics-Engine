@@ -17,7 +17,10 @@ blue = (0, 0, 255)
 green = (0,255,0)
 
 #initialization
-g
+screen = pygame.display.set_mode((screen_width, screen_height))
+pygame.display.set_caption("space")
+clock = pygame.time.Clock()
+
 
 crashed = False
 

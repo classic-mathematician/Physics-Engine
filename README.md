@@ -3,5 +3,6 @@ Physics Engine Simulator
 
 Developed using python 3
 
-1. Double pendulum simulator
-2. Attractor simulator
+1. Gas simulator 
+2. Double pendulum simulator
+3. Attractor simulator
